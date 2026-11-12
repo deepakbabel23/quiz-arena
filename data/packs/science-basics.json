@@ -1,0 +1,66 @@
+{
+  "pack": "science-basics",
+  "title": "Science Basics",
+  "questions": [
+    {
+      "id": "science-basics-01",
+      "text": "What is the chemical symbol for gold?",
+      "choices": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "science-basics-02",
+      "text": "What gas do plants absorb from the air?",
+      "choices": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "science-basics-03",
+      "text": "What is the speed of light in a vacuum, roughly?",
+      "choices": [
+        "300 km/s",
+        "3,000 km/s",
+        "300,000 km/s",
+        "3,000,000 km/s"
+      ],
+      "answer": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "science-basics-04",
+      "text": "Which particle has no electric charge?",
+      "choices": [
+        "Proton",
+        "Electron",
+        "Neutron",
+        "Positron"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "science-basics-05",
+      "text": "What is absolute zero in Celsius?",
+      "choices": [
+        "-100 °C",
+        "-273.15 °C",
+        "-459.67 °C",
+        "0 °C"
+      ],
+      "answer": 1,
+      "difficulty": 2
+    }
+  ]
+}

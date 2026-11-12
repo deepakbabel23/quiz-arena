@@ -1,0 +1,66 @@
+{
+  "pack": "git-and-dev-tools",
+  "title": "Git & Dev Tools",
+  "questions": [
+    {
+      "id": "git-and-dev-tools-01",
+      "text": "Which command creates a new branch and switches to it?",
+      "choices": [
+        "git branch -d",
+        "git switch -c",
+        "git merge",
+        "git stash"
+      ],
+      "answer": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "git-and-dev-tools-02",
+      "text": "What does 'git stash' do?",
+      "choices": [
+        "Deletes changes",
+        "Shelves uncommitted changes",
+        "Pushes to remote",
+        "Squashes commits"
+      ],
+      "answer": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "git-and-dev-tools-03",
+      "text": "Which file tells Git which files to ignore?",
+      "choices": [
+        ".gitkeep",
+        ".gitconfig",
+        ".gitignore",
+        ".gitattributes"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "git-and-dev-tools-04",
+      "text": "What does 'git bisect' help you find?",
+      "choices": [
+        "Large files",
+        "The commit that introduced a bug",
+        "Merge conflicts",
+        "Unused branches"
+      ],
+      "answer": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "git-and-dev-tools-05",
+      "text": "Which command rewrites the last commit message?",
+      "choices": [
+        "git commit --amend",
+        "git rebase --abort",
+        "git reset --soft",
+        "git revert"
+      ],
+      "answer": 0,
+      "difficulty": 2
+    }
+  ]
+}

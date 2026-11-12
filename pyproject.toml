@@ -1,0 +1,29 @@
+[project]
+name = "quiz-arena"
+version = "0.1.0"
+description = "A small trivia game used as the lab project for the Claude Code for AI-Native SDLC course"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "httpx>=0.27",
+    "ruff>=0.6",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+filterwarnings = ["ignore:Using `httpx`"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

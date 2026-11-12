@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz Arena</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main>
+    <h1>Quiz Arena</h1>
+
+    <section id="setup">
+      <label>Your name <input id="player" maxlength="20" placeholder="e.g. Plant A Hero"></label>
+      <label>Pack <select id="pack"></select></label>
+      <button id="start">Start game</button>
+    </section>
+
+    <section id="play" hidden>
+      <p class="meta"><span id="progress"></span> · Score <strong id="score">0</strong> · <span id="timer">20</span>s</p>
+      <h2 id="question"></h2>
+      <div id="choices"></div>
+      <p id="feedback" aria-live="polite"></p>
+    </section>
+
+    <section id="done" hidden>
+      <h2>Game over</h2>
+      <p>Final score: <strong id="final"></strong></p>
+      <button id="again">Play again</button>
+    </section>
+
+    <section id="board">
+      <h2>Leaderboard</h2>
+      <ol id="leaders"></ol>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

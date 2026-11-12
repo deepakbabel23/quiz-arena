@@ -1,0 +1,66 @@
+{
+  "pack": "space",
+  "title": "Space & Astronomy",
+  "questions": [
+    {
+      "id": "space-01",
+      "text": "Which planet is known as the Red Planet?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "space-02",
+      "text": "What is the largest planet in our solar system?",
+      "choices": [
+        "Saturn",
+        "Neptune",
+        "Jupiter",
+        "Earth"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "space-03",
+      "text": "Roughly how long does sunlight take to reach Earth?",
+      "choices": [
+        "8 seconds",
+        "8 minutes",
+        "8 hours",
+        "8 days"
+      ],
+      "answer": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "space-04",
+      "text": "Which planet has the shortest day?",
+      "choices": [
+        "Jupiter",
+        "Earth",
+        "Mars",
+        "Venus"
+      ],
+      "answer": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "space-05",
+      "text": "What is the name of India's first Mars orbiter mission?",
+      "choices": [
+        "Chandrayaan",
+        "Mangalyaan",
+        "Aditya",
+        "Gaganyaan"
+      ],
+      "answer": 1,
+      "difficulty": 2
+    }
+  ]
+}

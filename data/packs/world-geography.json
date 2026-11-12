@@ -1,0 +1,66 @@
+{
+  "pack": "world-geography",
+  "title": "World Geography",
+  "questions": [
+    {
+      "id": "world-geography-01",
+      "text": "What is the longest river in India?",
+      "choices": [
+        "Yamuna",
+        "Godavari",
+        "Ganga",
+        "Narmada"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "world-geography-02",
+      "text": "Which is the smallest country in the world by area?",
+      "choices": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Malta"
+      ],
+      "answer": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "world-geography-03",
+      "text": "Which desert is the largest hot desert?",
+      "choices": [
+        "Gobi",
+        "Kalahari",
+        "Sahara",
+        "Thar"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "world-geography-04",
+      "text": "Bengaluru sits on which plateau?",
+      "choices": [
+        "Deccan Plateau",
+        "Chota Nagpur Plateau",
+        "Malwa Plateau",
+        "Tibetan Plateau"
+      ],
+      "answer": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "world-geography-05",
+      "text": "Which country has the most time zones (including territories)?",
+      "choices": [
+        "Russia",
+        "USA",
+        "France",
+        "China"
+      ],
+      "answer": 2,
+      "difficulty": 3
+    }
+  ]
+}

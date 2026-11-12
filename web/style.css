@@ -1,0 +1,11 @@
+body { font-family: "Segoe UI", system-ui, sans-serif; background: #0e1f33; color: #e8eef5; margin: 0; }
+main { max-width: 640px; margin: 2rem auto; padding: 0 1rem; }
+h1 { color: #f2b544; }
+label { display: block; margin: .5rem 0; }
+input, select, button { font: inherit; padding: .4rem .6rem; border-radius: 6px; border: 1px solid #2c4a66; }
+button { background: #f2b544; color: #0e1f33; border: none; cursor: pointer; }
+#choices button { display: block; width: 100%; margin: .4rem 0; text-align: left; background: #14496b; color: #fff; }
+#choices button:hover { background: #2c4a66; }
+.meta { color: #a9c2d6; }
+.correct { color: #7bd389; }
+.wrong { color: #ff8a80; }

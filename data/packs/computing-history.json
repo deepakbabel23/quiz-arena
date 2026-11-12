@@ -1,0 +1,66 @@
+{
+  "pack": "computing-history",
+  "title": "Computing History",
+  "questions": [
+    {
+      "id": "computing-history-01",
+      "text": "Who is often called the first computer programmer?",
+      "choices": [
+        "Ada Lovelace",
+        "Grace Hopper",
+        "Alan Turing",
+        "Charles Babbage"
+      ],
+      "answer": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "computing-history-02",
+      "text": "Which language did Guido van Rossum create?",
+      "choices": [
+        "Ruby",
+        "Perl",
+        "Python",
+        "Lua"
+      ],
+      "answer": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "computing-history-03",
+      "text": "In what decade was the C programming language created?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "answer": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "computing-history-04",
+      "text": "Who created Linux?",
+      "choices": [
+        "Richard Stallman",
+        "Linus Torvalds",
+        "Ken Thompson",
+        "Dennis Ritchie"
+      ],
+      "answer": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "computing-history-05",
+      "text": "Grace Hopper popularised the term 'bug' after finding what in a computer?",
+      "choices": [
+        "A moth",
+        "A beetle",
+        "A spider",
+        "A mouse"
+      ],
+      "answer": 0,
+      "difficulty": 3
+    }
+  ]
+}

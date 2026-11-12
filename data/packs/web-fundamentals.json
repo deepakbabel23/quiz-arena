@@ -1,0 +1,66 @@
+{
+  "pack": "web-fundamentals",
+  "title": "Web Fundamentals",
+  "questions": [
+    {
+      "id": "web-fundamentals-01",
+      "text": "What does HTTP status 404 mean?",
+      "choices": [
+        "Server error",
+        "Not found",
+        "Unauthorized",
+        "Moved permanently"
+      ],
+      "answer": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "web-fundamentals-02",
+      "text": "Which HTTP method is meant to be idempotent and replace a resource?",
+      "choices": [
+        "POST",
+        "PUT",
+        "PATCH",
+        "CONNECT"
+      ],
+      "answer": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "web-fundamentals-03",
+      "text": "What does CSS stand for?",
+      "choices": [
+        "Cascading Style Sheets",
+        "Computer Style Syntax",
+        "Creative Styling System",
+        "Colour Style Sheets"
+      ],
+      "answer": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "web-fundamentals-04",
+      "text": "Which header lets a browser call an API on another origin?",
+      "choices": [
+        "Content-Type",
+        "Access-Control-Allow-Origin",
+        "Cache-Control",
+        "Authorization"
+      ],
+      "answer": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "web-fundamentals-05",
+      "text": "What does the 'S' in HTTPS stand for?",
+      "choices": [
+        "Speed",
+        "Secure",
+        "Server",
+        "Session"
+      ],
+      "answer": 1,
+      "difficulty": 1
+    }
+  ]
+}
